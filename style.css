@@ -74,8 +74,8 @@ img{
     }
 
     .choices{
-        gap: 2rem;
-        margin-top: 5rem;
+        gap: 5rem;
+        margin-top: 8rem;
     }
 
     .choice{
@@ -84,13 +84,13 @@ img{
     }
 
     img{
-        height: 75px;
-        width: 75px; 
+        height: 120px;
+        width: 120px; 
     }
 
     .score-board{
         font-size: 1rem;
-        margin-top: 4rem;
+        margin-top: 6rem;
         gap: 2rem;
     }
 
@@ -99,6 +99,6 @@ img{
     }
 
     .msg-container{
-        margin-top: 5rem;
+        margin-top: 6rem;
     }
 }
